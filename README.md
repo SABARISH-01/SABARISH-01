@@ -1,6 +1,65 @@
 # 💫 About Me:
-🛠️ I'm currently working on:<br>Offering website development services for clients and startups<br><br>Improving my programming skills by actively practicing Data Structures and Algorithms (DSA) for placement preparation<br><br>Continuously enhancing my skills in cyber security and web development<br>🤝 I'm looking to collaborate on:<br>Startup projects related to cybersecurity<br><br>Potentially with frontend/backend developers or cloud/security experts to enhance your website and service delivery<br><br>Hackathons or CTF events for learning and experience<br><br>🆘 I'm looking for help with:<br>Company/startup registration procedures, especially international considerations<br><br>Placement preparation, especially DSA and sorting algorithms<br><br>Guidance for ReactJS and full-stack development<br><br>📚 I'm currently learning:<br>Data Structures and Algorithms (DSA) from scratch for placement<br><br>web development skills<br><br>CTFs and penetration testing<br><br>Tools like Docker, Kubernetes, Metasploit, Burp Suite, etc.<br><br>You're also sharpening your Java, Spring Boot, and MySQL skills<br><br>💬 Ask me about:<br>Cybersecurity basics (e.g., VAPT, Wireshark, Nmap, Burp Suite)<br><br>Frontend/React development<br><br>How to start building websites for startups<br><br>Hackathon experience<br><br>Internship at Red Hat<br><br>Certifications from Cisco, Infosys, AWS<br><br>🎉 Fun fact:<br>You’re a college student entering 3rd year who has already participated in multiple hackathons, won prizes, presented papers, done internships, and you're already building a real-world startup website — that’s a power move!
 
+# Sabarish V
+
+Computer Science undergraduate (Cyber Security) and Web Developer currently working with **AmbitGrow**, an independent web development team (startup-in-formation), building and deploying production-grade web applications for real clients.
+
+I focus on **backend systems, REST APIs, and scalable web applications**, while continuously improving my **Data Structures & Algorithms** skills for software engineering roles.
+
+---
+
+## What I’m Working On
+- Building and maintaining **client web applications** at AmbitGrow  
+- Developing **full-stack systems** using React, Express, Spring Boot, and databases  
+- Practicing **DSA and problem solving** using Java and C++  
+- Learning **cloud deployment, Docker, and backend architecture**
+
+---
+
+## Experience Snapshot
+**Web Developer – AmbitGrow (2025–Present)**  
+- Part of a small engineering team delivering **live client websites and web systems**  
+- Built **full-stack applications** with React, REST APIs, and databases  
+- Working on **multiple ongoing and upcoming client projects**
+
+**Cybersecurity Intern – The Red Users**  
+**Web Application Security Intern – Future Interns**  
+
+Worked on vulnerability analysis, web security, and secure backend practices.
+
+---
+
+## Tech Stack
+**Languages:** Java, C++, JavaScript  
+**Web & Backend:** React, Express, Spring Boot, REST APIs  
+**Databases:** MySQL, MongoDB  
+**Tools:** Git, Docker, AWS, Linux  
+
+---
+
+## Projects
+- **Aaryaa Fiber Network Website** – Production website for a local ISP  
+  https://www.aaryaanetwork.com  
+
+- **Multiple client projects** built as part of AmbitGrow (UI, APIs, and backend systems)
+
+---
+
+## Problem Solving
+- Solved **100+ DSA problems** on LeetCode  
+- Strong in arrays, strings, recursion, trees, and hashing  
+- Focused on writing efficient and readable Java/C++ solutions  
+
+---
+
+## Links
+GitHub: https://github.com/SABARISH-01  
+LinkedIn: https://www.linkedin.com/in/sabarish-2458-v  
+LeetCode: https://leetcode.com/Sabarish_V  
+
+---
+
+I am actively seeking **software engineering and web engineering internship opportunities** where I can contribute to real products and grow as an engineer.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sabarish._.01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/sabarish-2458-v) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sabarishvengadesh64@gmail.com) 
