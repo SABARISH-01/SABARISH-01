@@ -61,7 +61,5 @@ LeetCode: https://leetcode.com/Sabarish_V
 
 I am actively seeking **software engineering and web engineering internship opportunities** where I can contribute to real products and grow as an engineer.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SABARISH-01&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
