@@ -152,7 +152,7 @@ Passionate about building impactful products through AmbitGrow while also explor
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SABARISH-01&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=SABARISH-01&theme=tokyonight" />
 </p>
 
 <p align="center">
