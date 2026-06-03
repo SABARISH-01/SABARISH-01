@@ -1,65 +1,125 @@
-# 💫 About Me:
+# 💫 About Me
 
-# Sabarish V
+## Sabarish V
 
-Computer Science undergraduate (Cyber Security) and Web Developer currently working with **AmbitGrow**, an independent web development team (startup-in-formation), building and deploying production-grade web applications for real clients.
+Computer Science & Engineering (Cyber Security) undergraduate, Full-Stack Developer, and Founder of AmbitGrow.
 
-I focus on **backend systems, REST APIs, and scalable web applications**, while continuously improving my **Data Structures & Algorithms** skills for software engineering roles.
+Passionate about building scalable web applications, backend systems, and real-world software solutions that solve business problems. Experienced in developing and deploying production-ready applications for clients, managing complete project lifecycles from requirement gathering to deployment and maintenance.
 
----
-
-## What I’m Working On
-- Building and maintaining **client web applications** at AmbitGrow  
-- Developing **full-stack systems** using React, Express, Spring Boot, and databases  
-- Practicing **DSA and problem solving** using Java and C++  
-- Learning **cloud deployment, Docker, and backend architecture**
+Currently focused on strengthening software engineering fundamentals through Data Structures & Algorithms while gaining hands-on experience building commercial web products.
 
 ---
 
-## Experience Snapshot
-**Web Developer – AmbitGrow (2025–Present)**  
-- Part of a small engineering team delivering **live client websites and web systems**  
-- Built **full-stack applications** with React, REST APIs, and databases  
-- Working on **multiple ongoing and upcoming client projects**
+## 🚀 What I'm Currently Doing
 
-**Cybersecurity Intern – The Red Users**  
-**Web Application Security Intern – Future Interns**  
-
-Worked on vulnerability analysis, web security, and secure backend practices.
+* Building and deploying client applications through AmbitGrow
+* Developing full-stack web applications using Spring Boot, React, Node.js, and modern databases
+* Designing REST APIs and backend architectures
+* Learning cloud infrastructure, Docker, DevOps, and scalable system design
+* Practicing Data Structures & Algorithms for software engineering roles
 
 ---
 
-## Tech Stack
-**Languages:** Java, C++, JavaScript  
-**Web & Backend:** React, Express, Spring Boot, REST APIs  
-**Databases:** MySQL, MongoDB  
-**Tools:** Git, Docker, AWS, Linux  
+## 💼 Experience
+
+### Founder & Full-Stack Developer — AmbitGrow (2025 – Present)
+
+* Delivering production-grade websites and web applications for businesses
+* Working directly with clients to gather requirements and implement solutions
+* Building responsive frontends, scalable backends, and database-driven systems
+* Managing deployment, domain configuration, hosting, and maintenance
+* Leading development of multiple ongoing client projects
+
+### Full Stack Developer Intern — EMDATA NETWORKS PVT LTD (Mar 2026 – Present)
+
+* Working on full-stack web application development using modern frontend and backend technologies
+* Developing and maintaining REST APIs, database integrations, and business workflows
+* Collaborating with senior developers on production-grade software solutions
+* Contributing to feature implementation, debugging, testing, and application deployment
+* Gaining hands-on experience in software development lifecycle, code reviews, and industry development practices
+
+### Cyber Security Intern — The Red Users
+
+* Performed vulnerability assessment and security analysis
+* Learned secure development practices and web application security fundamentals
+
+### Web Application Security Intern — Future Interns
+
+* Worked on identifying and analyzing web security vulnerabilities
+* Gained hands-on exposure to application security testing methodologies
 
 ---
 
-## Projects
-- **Aaryaa Fiber Network Website** – Production website for a local ISP  
-  https://www.aaryaanetwork.com  
+## 🛠 Tech Stack
 
-- **Multiple client projects** built as part of AmbitGrow (UI, APIs, and backend systems)
+### Languages
+
+Java • C++ • JavaScript • SQL
+
+### Backend
+
+Spring Boot • Express.js • REST APIs • JWT Authentication
+
+### Frontend
+
+React.js • HTML • CSS • Responsive Web Design
+
+### Databases
+
+MySQL • MongoDB • SQLite
+
+### Tools & Platforms
+
+Git • GitHub • Docker • Linux • AWS • Render
 
 ---
 
-## Problem Solving
-- Solved **100+ DSA problems** on LeetCode  
-- Strong in arrays, strings, recursion, trees, and hashing  
-- Focused on writing efficient and readable Java/C++ solutions  
+## 📌 Featured Projects
+
+### Aaryaa Fiber Network Website
+
+* Developed and deployed a production website for a local ISP
+* Responsive design and business-focused web presence
+
+### Tree Enumeration & Forest Analytics Platform
+
+* Built during national-level hackathons
+* Combined satellite imagery, GIS tools, and machine learning
+* Automated tree classification and enumeration workflows
+
+### Client Websites & Business Applications
+
+* Developed multiple custom web solutions through AmbitGrow
+* Worked on UI development, backend APIs, deployment, and maintenance
 
 ---
 
-## Links
-GitHub: https://github.com/SABARISH-01  
-LinkedIn: https://www.linkedin.com/in/sabarish-2458-v  
-LeetCode: https://leetcode.com/Sabarish_V  
+## 🧠 Problem Solving
+
+* Solved 100+ Data Structures & Algorithms problems
+* Strong understanding of arrays, strings, hashing, recursion, linked lists, trees, and basic graph concepts
+* Focused on writing efficient, maintainable, and scalable solutions
 
 ---
 
-I am actively seeking **software engineering and web engineering internship opportunities** where I can contribute to real products and grow as an engineer.
+## 🎯 Career Interests
 
+* Software Engineering
+* Backend Development
+* Full-Stack Development
+* Cyber Security Engineering
+* Cloud & DevOps
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Currently seeking Software Engineering, Backend Development, and Full-Stack Development internship opportunities where real-world engineering and product development skills can create measurable impact.
+
+---
+
+## 🔗 Profiles
+
+GitHub: https://github.com/SABARISH-01
+
+LinkedIn: https://www.linkedin.com/in/sabarish-2458-v
+
+LeetCode: https://leetcode.com/Sabarish_V
+
+Instagram: https://instagram.com/sabarish.md
