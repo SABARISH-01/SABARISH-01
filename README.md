@@ -2,21 +2,20 @@
 
 ## Sabarish V
 
-Computer Science & Engineering (Cyber Security) undergraduate, Full-Stack Developer, and Founder of AmbitGrow.
+Computer Science & Engineering (Cyber Security) undergraduate, **Backend-Focused Full-Stack Developer**, and Founder of AmbitGrow.
 
 Passionate about building scalable web applications, backend systems, and real-world software solutions that solve business problems. Experienced in developing and deploying production-ready applications for clients, managing complete project lifecycles from requirement gathering to deployment and maintenance.
 
-Currently focused on strengthening software engineering fundamentals through Data Structures & Algorithms while gaining hands-on experience building commercial web products.
+Built and deployed **5+ client projects**, including business websites, employee management systems, and backend-driven web applications. Currently focused on strengthening software engineering fundamentals through Data Structures & Algorithms while gaining hands-on experience building commercial web products.
 
 ---
 
-## 🚀 What I'm Currently Doing
+## 🚀 Currently Building
 
-* Building and deploying client applications through AmbitGrow
-* Developing full-stack web applications using Spring Boot, React, Node.js, and modern databases
-* Designing REST APIs and backend architectures
-* Learning cloud infrastructure, Docker, DevOps, and scalable system design
-* Practicing Data Structures & Algorithms for software engineering roles
+* Staff & Attendance Management System
+* Business Web Applications through AmbitGrow
+* Spring Boot Backend Systems
+* DSA for Software Engineering Interviews
 
 ---
 
@@ -24,10 +23,10 @@ Currently focused on strengthening software engineering fundamentals through Dat
 
 ### Founder & Full-Stack Developer — AmbitGrow (2025 – Present)
 
-* Delivering production-grade websites and web applications for businesses
+* Built and deployed 5+ client projects, including business websites and custom web applications
 * Working directly with clients to gather requirements and implement solutions
 * Building responsive frontends, scalable backends, and database-driven systems
-* Managing deployment, domain configuration, hosting, and maintenance
+* Managing deployment, domain configuration, hosting, SSL setup, and maintenance
 * Leading development of multiple ongoing client projects
 
 ### Full Stack Developer Intern — EMDATA NETWORKS PVT LTD (Mar 2026 – Present)
@@ -78,10 +77,15 @@ Git • GitHub • Docker • Linux • AWS • Render
 
 ### Aaryaa Fiber Network Website
 
-* Developed and deployed a production website for a local ISP
-* Responsive design and business-focused web presence
+**Tech:** Node, Deployment
+
+* Developed and deployed a live website for a local ISP
+* Responsive design optimized for multiple devices
+* SEO-focused business web presence
 
 ### Tree Enumeration & Forest Analytics Platform
+
+**Tech:** GIS, Machine Learning, Satellite Imagery
 
 * Built during national-level hackathons
 * Combined satellite imagery, GIS tools, and machine learning
@@ -91,12 +95,25 @@ Git • GitHub • Docker • Linux • AWS • Render
 
 * Developed multiple custom web solutions through AmbitGrow
 * Worked on UI development, backend APIs, deployment, and maintenance
+* Delivered solutions tailored to business requirements
+
+---
+
+## 🚀 Deployment Experience
+
+* Render
+* Domain Configuration
+* SSL Setup
+* Production Maintenance
+* Database Migration
+
+Deploying and maintaining production applications using modern hosting platforms and Linux environments.
 
 ---
 
 ## 🧠 Problem Solving
 
-* Solved 100+ Data Structures & Algorithms problems
+* Solved 100+ Data Structures & Algorithms problems on LeetCode
 * Strong understanding of arrays, strings, hashing, recursion, linked lists, trees, and basic graph concepts
 * Focused on writing efficient, maintainable, and scalable solutions
 
@@ -111,6 +128,22 @@ Git • GitHub • Docker • Linux • AWS • Render
 * Cloud & DevOps
 
 Currently seeking Software Engineering, Backend Development, and Full-Stack Development internship opportunities where real-world engineering and product development skills can create measurable impact.
+
+---
+
+## 📊 GitHub Stats
+
+
+\
+
+---
+
+## 📬 Open To
+
+* Software Engineering Internships
+* Backend Developer Internships
+* Full-Stack Developer Roles
+* Freelance Web Development Projects
 
 ---
 
