@@ -145,22 +145,6 @@ Passionate about building impactful products through AmbitGrow while also explor
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SABARISH-01&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SABARISH-01&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SABARISH-01&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 📬 Open To
 
 * Software Engineering Internships
